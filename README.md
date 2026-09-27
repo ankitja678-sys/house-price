@@ -4,15 +4,9 @@ A beginner-friendly machine learning project that predicts house prices using Py
 
 ## 📌 Project Overview
 
-This project demonstrates a basic machine learning workflow for predicting house prices from housing-related data.
+This project demonstrates how machine learning can be used to predict house prices from property-related data.
 
-It is designed to help understand the fundamentals of:
-
-- Data handling
-- Data preprocessing
-- Machine learning
-- Model training
-- Price prediction
+The project focuses on building a simple and understandable machine learning workflow using Python and popular data science libraries.
 
 ## ✨ Features
 
@@ -25,16 +19,20 @@ It is designed to help understand the fundamentals of:
 
 ## 🛠️ Technologies Used
 
-- **Python**
-- **Pandas**
-- **NumPy**
-- **Scikit-learn**
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
 
-## 📂 Project Structure
+## 🔄 Machine Learning Workflow
 
 ```text
-house-price/
-│
-├── main.py
-├── README.md
-└── ...
+Input Data
+    ↓
+Data Processing
+    ↓
+Feature Preparation
+    ↓
+Machine Learning Model
+    ↓
+Price Prediction
